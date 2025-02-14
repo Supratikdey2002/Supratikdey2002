@@ -1,4 +1,8 @@
 # 👋 Hey there! I'm a Full-Stack Developer, Problem Solver and AI enthusiast.
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 🎯 I’m currently working on: An AI-powered Finance Management System and monitoring system,<br>🤝 I’m looking to collaborate on: Open-source projects, full-stack web applications, and innovative AI/ML solutions.<br>🛠️ I’m looking for help with: Advanced machine learning concepts, reinforcement learning, and optimizing AI models.<br>🌱 I’m currently learning: Next.js, Typescript, Postgres, Docker, Cloud Computing and exploring deep learning applications in real-world problems.<br>💡 I’m proficient in: Problem-solving and Data Structures & Algorithms (DSA). I have solved 1000+ coding problems across platforms like LeetCode, Codeforces, and CodeChef.<br>💬 Ask me about: Full-stack development, DSA, system design, machine learning, and hackathons!<br>⚡ Fun fact: I secured 4th place in a college-level tech quiz competition and ranked in the top 6000 in a LeetCode weekly contest among 35,000+ participants!
 
@@ -15,9 +19,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Supratikdey2002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Supratikdey2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
