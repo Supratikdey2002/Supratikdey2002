@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hey there! I'm a Full-Stack Developer, Problem Solver and AI enthusiast.
 
 ### ✍️ Random Dev Quote
@@ -24,6 +25,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Supratikdey2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Supratikdey2002&icon=1&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Supratikdey2002&icon=1&color=11)](https://visitcount.itsvg.in)</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
